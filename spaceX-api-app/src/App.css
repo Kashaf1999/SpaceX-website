@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    
+
+}
+body{
+    background-color: #000000;
+}
+
+.customcard{
+    background-color: #3e3d3d;
+    color: black;
+}
+.navCol{
+ background-color: #000000!important;
+}
+.search{
+    background-color: #3e3d3d!important;
+}
+#modal{
+    width: 40rem;
+    background-color:#3e3d3d ;
+
+}
+#modal li{
+    background-color: #3e3d3d;
+    color: white;
+}
+#modal h1{
+    color:rgb(12, 6, 6);
+}
+
+#error{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#errorimg{
+    justify-content: center;
+    align-items: center;
+   top: 50%;
+}
